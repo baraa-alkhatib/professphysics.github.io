@@ -686,7 +686,7 @@ Change widths as necessary
   .g2 {width:64.667%;}
   .g3 {width:98.0%}
 }
-.icon-envelope{
+/*.icon-envelope{
 		  width: 34px;
     margin-top: 5px;
     height: 34px;
@@ -708,7 +708,7 @@ Change widths as necessary
     background-repeat: no-repeat;
 	background-image: url('../images/In-Black-34px-R.png');
 
-}
+}*/
 
 @media only screen and (min-width: 1280px) { 
   /* DESKTOP */
